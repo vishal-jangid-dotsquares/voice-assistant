@@ -50,7 +50,7 @@ async def entrypoint(ctx: JobContext):
         API_URL = "http://127.0.0.1:5000"
         FALLBACK_MESSAGE = "Something went wrong, please ask another question!"
         
-        text = " ".join([d async for d in text])
+        text = "".join([d async for d in text])
         payload = {"text": text}
         headers = {'Content-Type': 'application/json'}
         

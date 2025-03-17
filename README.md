@@ -63,7 +63,7 @@ Run the start script to launch the services:
 
 Open the Next.js local URL: [http://localhost:3000/](http://localhost:3000/)
 
-Alternatively, access via the ngrok URL (no local setup required): [https://c485-136-232-169-245.ngrok-free.app](https://c485-136-232-169-245.ngrok-free.app)
+Alternatively, access via the ngrok URL (no local setup required): [https://29c1-136-232-169-245.ngrok-free.app](https://29c1-136-232-169-245.ngrok-free.app)
 
 ## **Notes**
 
